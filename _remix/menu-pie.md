@@ -16,3 +16,6 @@ tags:
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: Τροποποιήστε το μενού κατάλληλα ώστε κατά την επιλογή του κουμπιού open να εμφανίζονται 4 και όχι 12 επιλογές.
+
+<p data-height="350" data-theme-id="17517" data-slug-hash="eNwepm" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='https://codepen.io/p15anez/pen/rNLvyEK'>Circular Navigation example</a> by p15anez (<a href='https://codepen.io/p15anez'>@p15anez</a>) on <a href='https://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
