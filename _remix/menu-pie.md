@@ -17,7 +17,5 @@ tags:
 
 Άσκηση: Τροποποιήστε το μενού κατάλληλα ώστε κατά την επιλογή του κουμπιού open να εμφανίζονται 4 και όχι 12 επιλογές.
 
-<iframe height="350" style="width: 100%;" scrolling="no" title="Menu pie" src="https://codepen.io/p15anez/pen/rNLvyEK?height=350&theme-id=light&default-tab=html,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/p15anez/pen/rNLvyEK'>Menu pie</a> by mibook
-  (<a href='https://codepen.io/mibook'>@mibook</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
+<p data-height="350" data-theme-id="17517" data-slug-hash="eNwepm" data-default-tab="result" data-user="p15anez" class='codepen'>See the Pen <a href='https://codepen.io/p15anez/pen/rNLvyEK'>Menu pie</a> by p15anez (<a href='https://codepen.io/p15anez'>@p15anez</a>) on <a href='https://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
