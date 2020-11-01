@@ -18,3 +18,6 @@ tags:
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: Τροποποιήστε το παράδειγμα χρησιμοποιώντας φίλτρα εικόνας και συνδυασμούς αυτών. Παραδείγματα φίλτρων βρίσκονται ως σχόλια στην ενότητα με τον CSS κώδικα του παραδείγματος.
+
+<p data-height="350" data-theme-id="17517" data-slug-hash="YzWLVYq" data-default-tab="result" data-user="p15anez" class='codepen'>See the Pen <a href='https://codepen.io/p15anez/pen/YzWLVYq/'>Image processing</a> by p15anez (<a href='https://codepen.io/p15anez'>@p15anez</a>) on <a href='https://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
