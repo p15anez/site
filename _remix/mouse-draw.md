@@ -15,3 +15,6 @@ tags:
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: Τρποποποιήστε το παράδειγμα έτσι ώστε όταν δίνεται ως είσοδος ένα συγκεκριμένο πλήκτρο από το πληκτρολόγιο (π.χ. Space), να εκτελείται η λειτουργία reset / clear στo canvas (επαναφορά στη λευκή επιφάνεια).
+
+<p data-height="350" data-theme-id="17517" data-slug-hash="GRjJWKR" data-default-tab="result" data-user="p15anez" class='codepen'>See the Pen <a href='https://codepen.io/p15anez/pen/GRjJWKR/'>Mouse Draw</a> by p15anez (<a href='https://codepen.io/p15anez'>@p15anez</a>) on <a href='https://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
