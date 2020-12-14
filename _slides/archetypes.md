@@ -2,8 +2,9 @@
 layout: slides
 title: Αρχέτυπα
 caption: Διαφάνειες για το κεφάλαιο Αρχέτυπα
-image_url: /images/xerox-star-desktop.png
+image_url: /images/oculus-rift.jpg
 slides:
+  -oculus-rift
   - ibm2471
   - xerox-star-desktop
   - engelbart-mouse
