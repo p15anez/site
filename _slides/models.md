@@ -1,9 +1,10 @@
 ---
 layout: slides
 title: Μοντέλα
-image_url: /images/visicalc.png
+image_url: /images/zoom.png
 caption: Διαφάνειες για το κεφάλαιο Μοντέλα
 slides:
+  - zoom 
   - visicalc
   - plato-emoticons 
   - google-now
