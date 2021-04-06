@@ -1,7 +1,7 @@
 ---
 layout: slides
 title: Μοντέλα
-image_url: /images/zoom.png
+image_url: /images/visicalc.png
 caption: Διαφάνειες για το κεφάλαιο Μοντέλα
 slides:
   - zoom 
