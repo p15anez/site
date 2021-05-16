@@ -4,6 +4,7 @@ title: Μοντέλα
 image_url: /images/visicalc.png
 caption: Διαφάνειες για το κεφάλαιο Μοντέλα
 slides:
+  - tails
   - zoom 
   - visicalc
   - plato-emoticons 
