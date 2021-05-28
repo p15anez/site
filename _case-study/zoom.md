@@ -11,4 +11,4 @@ tags:
   - success
 ---
 
-{% include extras/cs-zoom.md %}
+{% include_relative cs-zoom.md %}
