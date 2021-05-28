@@ -12,4 +12,4 @@ tags:
   - Conferencing
 ---
 
-{% include extras/bio-yuan.md %}
+{% include_relative bio-yuan.md %}
